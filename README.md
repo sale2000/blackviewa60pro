@@ -8,13 +8,18 @@ Cheap and Cheerful
 1. Enable developer mode 
 2. OEM unlock
 
-## download files
+## Download files
 
 All credits to: https://www.youtube.com/watch?v=m6lvYCMflX8
 
 1. recovery.img
+
 2. vbmeta.img
-3. your favorite gsi
+
+3. your favorite gsi - use only - treble_arm64_bvN ARM 64-bit, AB (64bit) examples:
+	
+	```system-quack-arm64-ab-vanilla.img```
+	```lineage-17.1-20200607-UNOFFICIAL-treble_arm64_bvN```
 
 ## Now in a terminal or cmd
 
