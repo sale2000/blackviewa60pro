@@ -1,6 +1,7 @@
 # Blackview A60 Pro
 
 Cheap and Cheerful
+
 AOSP/GSI works perfectly well
 
 
