@@ -153,4 +153,8 @@ Finished. Total time: 0.551s
 k
 ```
 
-## Usage
+## Screenshots
+
+### Before
+![alt text](https://raw.githubusercontent.com/sale2000/blackviewa60pro/master/deviceinfo.png "Device info")
+
